@@ -1,0 +1,1787 @@
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 22:55:20 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 14:48:48
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55fada27bcb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55fada27bcb0 pid: 19022 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19022)
+spawned uWSGI worker 1 (pid: 19057, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 22:58:34 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 14:48:48
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:00:47 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 14:48:48
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:01:18 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 14:48:48
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55b3ffe02cb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55b3ffe02cb0 pid: 19973 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19973)
+spawned uWSGI worker 1 (pid: 19993, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:05:30 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+Invalid HTTP_HOST header: '120.79.9.38'. You may need to add '120.79.9.38' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '120.79.9.38'. You may need to add '120.79.9.38' to ALLOWED_HOSTS.
+Bad Request: /
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:06:21 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5646bda95640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5646bda95640 pid: 22160 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 22160)
+spawned uWSGI worker 1 (pid: 22179, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:09:38 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5631c08d7640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5631c08d7640 pid: 22540 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 22540)
+spawned uWSGI worker 1 (pid: 22558, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:10:09 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x556cd0d56640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x556cd0d56640 pid: 22768 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 22768)
+spawned uWSGI worker 1 (pid: 22772, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:20:24 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55a8573c8640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55a8573c8640 pid: 24049 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24049)
+spawned uWSGI worker 1 (pid: 24074, cores: 1)
+3
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/http/response.py", line 254, in close
+    signals.request_finished.send(sender=self._handler_class)
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 173, in send
+    return [
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 174, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+  File "/usr/local/lib/python3.8/dist-packages/django/db/__init__.py", line 57, in close_old_connections
+    conn.close_if_unusable_or_obsolete()
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/base/base.py", line 525, in close_if_unusable_or_obsolete
+    self.close()
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/asyncio.py", line 24, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 261, in close
+    if not self.is_in_memory_db():
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 380, in is_in_memory_db
+    return self.creation.is_in_memory_db(self.settings_dict['NAME'])
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/creation.py", line 12, in is_in_memory_db
+    return database_name == ':memory:' or 'mode=memory' in database_name
+TypeError: argument of type 'PosixPath' is not iterable
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    signals.request_started.send(sender=self.__class__, environ=environ)
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 173, in send
+    return [
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 174, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+  File "/usr/local/lib/python3.8/dist-packages/django/db/__init__.py", line 57, in close_old_connections
+    conn.close_if_unusable_or_obsolete()
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/base/base.py", line 525, in close_if_unusable_or_obsolete
+    self.close()
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/asyncio.py", line 24, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 261, in close
+    if not self.is_in_memory_db():
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 380, in is_in_memory_db
+    return self.creation.is_in_memory_db(self.settings_dict['NAME'])
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/creation.py", line 12, in is_in_memory_db
+    return database_name == ':memory:' or 'mode=memory' in database_name
+TypeError: argument of type 'PosixPath' is not iterable
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:26:55 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    signals.request_started.send(sender=self.__class__, environ=environ)
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 173, in send
+    return [
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 174, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+  File "/usr/local/lib/python3.8/dist-packages/django/db/__init__.py", line 57, in close_old_connections
+    conn.close_if_unusable_or_obsolete()
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/base/base.py", line 525, in close_if_unusable_or_obsolete
+    self.close()
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/asyncio.py", line 24, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 261, in close
+    if not self.is_in_memory_db():
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 380, in is_in_memory_db
+    return self.creation.is_in_memory_db(self.settings_dict['NAME'])
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/creation.py", line 12, in is_in_memory_db
+    return database_name == ':memory:' or 'mode=memory' in database_name
+TypeError: argument of type 'PosixPath' is not iterable
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    signals.request_started.send(sender=self.__class__, environ=environ)
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 173, in send
+    return [
+  File "/usr/local/lib/python3.8/dist-packages/django/dispatch/dispatcher.py", line 174, in <listcomp>
+    (receiver, receiver(signal=self, sender=sender, **named))
+  File "/usr/local/lib/python3.8/dist-packages/django/db/__init__.py", line 57, in close_old_connections
+    conn.close_if_unusable_or_obsolete()
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/base/base.py", line 525, in close_if_unusable_or_obsolete
+    self.close()
+  File "/usr/local/lib/python3.8/dist-packages/django/utils/asyncio.py", line 24, in inner
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 261, in close
+    if not self.is_in_memory_db():
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/base.py", line 380, in is_in_memory_db
+    return self.creation.is_in_memory_db(self.settings_dict['NAME'])
+  File "/usr/local/lib/python3.8/dist-packages/django/db/backends/sqlite3/creation.py", line 12, in is_in_memory_db
+    return database_name == ':memory:' or 'mode=memory' in database_name
+TypeError: argument of type 'PosixPath' is not iterable
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:27:51 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x564279cb3640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x564279cb3640 pid: 25470 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25470)
+spawned uWSGI worker 1 (pid: 25472, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:52:28 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55e4254a4640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55e4254a4640 pid: 27561 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 27561)
+spawned uWSGI worker 1 (pid: 27579, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Jun 25 23:56:18 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55cb711e4640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55cb711e4640 pid: 28514 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 28514)
+spawned uWSGI worker 1 (pid: 28532, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 00:36:22 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56136ee0e7e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 268686 bytes (262 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x56136ee0e7e0 pid: 30069 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 30069)
+spawned uWSGI worker 1 (pid: 30087, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 00:38:29 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+Python main interpreter initialized at 0x55fcd2159820
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 268686 bytes (262 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55fcd2159820 pid: 30384 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 30384)
+spawned uWSGI worker 1 (pid: 30405, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 00:39:35 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+Python main interpreter initialized at 0x562099c81690
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x562099c81690 pid: 30687 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 30687)
+spawned uWSGI worker 1 (pid: 30707, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 00:47:32 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+Python main interpreter initialized at 0x55f50840e690
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55f50840e690 pid: 31392 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31392)
+spawned uWSGI worker 1 (pid: 31411, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 01:10:13 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5651bd37f640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5651bd37f640 pid: 34558 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 34558)
+spawned uWSGI worker 1 (pid: 34576, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 01:19:30 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5603c6e0f650
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5603c6e0f650 pid: 36418 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 36418)
+spawned uWSGI worker 1 (pid: 36458, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 01:39:55 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f46a351640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55f46a351640 pid: 37218 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 37218)
+spawned uWSGI worker 1 (pid: 37238, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 07:56:48 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 07:57:29 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 07:58:31 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 08:01:08 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55cc90916640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55cc90916640 pid: 43019 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 43019)
+spawned uWSGI worker 1 (pid: 43044, cores: 1)
+Sun Jun 26 00:10:04 2022 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 08:11:16 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 08:11:45 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 08:12:17 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x555ed4f4b640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x555ed4f4b640 pid: 45737 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 45737)
+spawned uWSGI worker 1 (pid: 45755, cores: 1)
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 08:25:13 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x560f7ec5e640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x560f7ec5e640 pid: 49136 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 49136)
+spawned uWSGI worker 1 (pid: 49154, cores: 1)
+invalid request block size: 65524 (max 4096)...skip
+invalid request block size: 65524 (max 4096)...skip
+Not Found: /favicon.ico
+Not Found: /config/getuser
+Not Found: /login
+Not Found: /admni
+Not Found: /login
+Not Found: /login
+Not Found: /config/getuser
+Not Found: /webfig/
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 13:56:08 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56144d558630
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x56144d558630 pid: 58754 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 58754)
+spawned uWSGI worker 1 (pid: 58781, cores: 1)
+Sun Jun 26 06:03:22 2022 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:04:05 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:04:45 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:05:28 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x5578c26bb640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5578c26bb640 pid: 60934 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 60934)
+spawned uWSGI worker 1 (pid: 60952, cores: 1)
+Sun Jun 26 06:06:46 2022 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:07:51 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55908d7cc640
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55908d7cc640 pid: 61713 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 61713)
+spawned uWSGI worker 1 (pid: 61745, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:09:28 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:10:17 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:8090).
+bind(): Address already in use [core/socket.c line 769]
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 14:10:48 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo
+writing pidfile to /root/Demo/Demo2.0/Demo/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+your processes number limit is 15496
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8090 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.10 (default, Mar 15 2022, 12:22:08)  [GCC 9.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55f46ae007e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 268686 bytes (262 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55f46ae007e0 pid: 62581 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 62581)
+spawned uWSGI worker 1 (pid: 62599, cores: 1)
+uwsgi_proto_uwsgi_parser(): Success [proto/uwsgi.c line 40]
+uwsgi_proto_uwsgi_parser(): Success [proto/uwsgi.c line 40]
+uwsgi_proto_uwsgi_parser(): Success [proto/uwsgi.c line 40]
+uwsgi_proto_uwsgi_parser(): Success [proto/uwsgi.c line 40]
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/Demo/Demo2.0/Demo/./reviewsite/views.py", line 20, in login_index
+FileNotFoundError: [Errno 2] No such file or directory: '/root/Demo/Demo2.0/Demo/templates/login.html'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/Demo/Demo2.0/Demo/./reviewsite/views.py", line 20, in login_index
+FileNotFoundError: [Errno 2] No such file or directory: '/root/Demo/Demo2.0/Demo/templates/login.html'
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.8/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/Demo/Demo2.0/Demo/./reviewsite/views.py", line 20, in login_index
+FileNotFoundError: [Errno 2] No such file or directory: '/root/Demo/Demo2.0/Demo/templates/login.html'
+...brutally killing workers...
+Gracefully killing worker 1 (pid: 62599)...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /root/Demo/Demo2.0/Demo
+uwsgi_reload()/chdir(): No such file or directory [core/master_utils.c line 453]
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (127.0.0.1:8090)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 07:24:32 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /home/Demo/Demo2.0/Demo
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/Demo/Demo2.0/Demo
+chdir(): No such file or directory [core/uwsgi.c line 2625]

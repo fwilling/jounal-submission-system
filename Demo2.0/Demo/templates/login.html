@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <title>Login</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link href="/static/resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="/static/data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="/static/files/login/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="/static/resources/scripts/jquery-3.2.1.min.js"></script>
+    <script src="/static/resources/scripts/axure/axQuery.js"></script>
+    <script src="/static/resources/scripts/axure/globals.js"></script>
+    <script src="/static/resources/scripts/axutils.js"></script>
+    <script src="/static/resources/scripts/axure/annotation.js"></script>
+    <script src="/static/resources/scripts/axure/axQuery.std.js"></script>
+    <script src="/static/resources/scripts/axure/doc.js"></script>
+    <script src="/static/resources/scripts/messagecenter.js"></script>
+    <script src="/static/resources/scripts/axure/events.js"></script>
+    <script src="/static/resources/scripts/axure/recording.js"></script>
+    <script src="/static/resources/scripts/axure/action.js"></script>
+    <script src="/static/resources/scripts/axure/expr.js"></script>
+    <script src="/static/resources/scripts/axure/geometry.js"></script>
+    <script src="/static/resources/scripts/axure/flyout.js"></script>
+    <script src="/static/resources/scripts/axure/model.js"></script>
+    <script src="/static/resources/scripts/axure/repeater.js"></script>
+    <script src="/static/resources/scripts/axure/sto.js"></script>
+    <script src="/static/resources/scripts/axure/utils.temp.js"></script>
+    <script src="/static/resources/scripts/axure/variables.js"></script>
+    <script src="/static/resources/scripts/axure/drag.js"></script>
+    <script src="/static/resources/scripts/axure/move.js"></script>
+    <script src="/static/resources/scripts/axure/visibility.js"></script>
+    <script src="/static/resources/scripts/axure/style.js"></script>
+    <script src="/static/resources/scripts/axure/adaptive.js"></script>
+    <script src="/static/resources/scripts/axure/tree.js"></script>
+    <script src="/static/resources/scripts/axure/init.temp.js"></script>
+    <script src="/static/resources/scripts/axure/legacy.js"></script>
+    <script src="/static/resources/scripts/axure/math.js"></script>
+    <script src="/static/resources/scripts/axure/jquery.nicescroll.min.js"></script>
+    <script src="/static/data/document.js"></script>
+    <script src="/static/files/login/data.js"></script>
+    <script type="text/javascript">
+        $axure.utils.getTransparentGifPath = function () {
+            return '/static/resources/images/transparent.gif';
+        };
+        $axure.utils.getOtherPath = function () {
+            return '/static/resources/Other.html';
+        };
+        $axure.utils.getReloadPath = function () {
+            return '/static/resources/reload.html';
+        };
+    </script>
+    <script type="text/css">
+        input[type='submit']{-webkit-appearance:none; outline: none;}
+    </script>
+</head>
+<body>
+<div id="base" class="">
+
+    <!-- Unnamed (Rectangle) -->
+    <div id="u40" class="ax_default box_1">
+        <div id="u40_div" class=""></div>
+        <div id="u40_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+        </div>
+    </div>
+
+
+    <!-- Unnamed (Rectangle) -->
+    <div id="u42" class="ax_default box_1">
+        <img id="u42_img" class="img " src="/static/images/login/u42.svg"/>
+        <div id="u42_text" class="text ">
+            <p><span>Easycmt 账号登录</span></p>
+        </div>
+    </div>
+
+    <form class='login' action='../welcome/' method="post" onsubmit="return login()">
+        <!-- 输入框 (Group) -->
+        <div id="u43" class="ax_default" data-label="输入框" data-left="779" data-top="166" data-width="349"
+             data-height="45">
+
+            <!-- 边框 (Rectangle) -->
+            <div id="u44" class="ax_default box_1" data-label="边框">
+                <img id="u44_img" class="img " src="/static/images/login/边框_u44.svg"/>
+                <div id="u44_text" class="text " style="display:none; visibility: hidden">
+                    <p></p>
+                </div>
+            </div>
+
+            <!-- 输入框 (Text Field) -->
+            <div id="u45" class="ax_default box_1" data-label="输入框">
+                <div id="u45_div" class=""></div>
+                <input id="u45_input" name="username"  type="email" value="" class="u45_input" required="true" maxlength="20"/>
+            </div>
+
+            <!-- 图标 (Rectangle) -->
+            <div id="u46" class="ax_default box_1" data-label="图标">
+                <div id="u46_div" class=""></div>
+                <div id="u46_text" class="text " style="display:none; visibility: hidden">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 输入框 (Group) -->
+        <div id="u47" class="ax_default" data-label="输入框" data-left="779" data-top="236" data-width="350"
+             data-height="45">
+
+            <!-- 边框 (Rectangle) -->
+            <div id="u48" class="ax_default box_1" data-label="边框">
+                <img id="u48_img" class="img " src="/static/images/login/边框_u48.svg"/>
+                <div id="u48_text" class="text " style="display:none; visibility: hidden">
+                    <p></p>
+                </div>
+            </div>
+
+            <!-- 输入框 (Text Field) -->
+            <div id="u49" class="ax_default box_1" data-label="输入框">
+                <div id="u49_div" class=""></div>
+                <input id="u49_input" name="password" type="password" value="" class="u49_input" required="true" maxlength="20"/>
+            </div>
+
+            <!-- 图标 (Rectangle) -->
+            <div id="u50" class="ax_default box_1" data-label="图标">
+                <div id="u50_div" class=""></div>
+                <div id="u50_text" class="text " style="display:none; visibility: hidden">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 登录按纽 (Rectangle) -->
+        <div id="u41" class="ax_default box_1" data-label="登录按纽" selectiongroup="按纽组-9">
+            <div id="u41_div" class=""></div>
+            <div id="u41_text" class="text ">
+                <input class="btn btn-primary" type="submit" value="登录" style="border:none;background:none;cursor:pointer;color:#FFFFFF;font-size:18px;"></input>
+            </div>
+        </div>
+    </form>
+
+    <!-- Unnamed (Rectangle) -->
+    <div id="u51" class="ax_default box_1">
+        <img id="u51_img" class="img " src="/static/images/login/u51.svg"/>
+        <div id="u51_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+        </div>
+    </div>
+
+    <!-- Unnamed (SVG) -->
+    <div id="u52" class="ax_default box_1">
+        <img id="u52_img" class="img " src="/static/images/login/u52.svg"/>
+        <div id="u52_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+        </div>
+    </div>
+
+    <!-- Unnamed (Shape) -->
+    <div id="u53" class="ax_default box_1">
+        <img id="u53_img" class="img " src="/static/images/login/u53.svg"/>
+        <div id="u53_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+        </div>
+    </div>
+
+    <!-- Unnamed (Shape) -->
+    <div id="u54" class="ax_default box_1">
+        <img id="u54_img" class="img " src="/static/images/login/u54.svg"/>
+        <div id="u54_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+        </div>
+    </div>
+
+    <!-- Unnamed (Rectangle) -->
+    <div id="u55" class="ax_default paragraph">
+        <div id="u55_div" class=""></div>
+        <div id="u55_text" class="text ">
+            <p><a id="u56" class="link" href="register/"><span>立即注册</span></a></p>
+            <p><a id="u56" class="link" href="changePassword/"><span>修改密码</span></a></p>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function login() {
+        var username = document.getElementsByName('username')[0].value;
+        var password = document.getElementsByName('password')[0].value;
+        localStorage.setItem('username', username);
+        localStorage.setItem('password', password);
+        return true;
+    }
+
+    // 加载页面时判断是否设置了昵称
+    window.onload = function () {
+        var username = localStorage.getItem('username');
+        //if(username){
+        //window.location.href='main.html';
+        // }
+    }
+</script>
+<script src="/static/resources/scripts/axure/ios.js"></script>
+</body>
+</html>

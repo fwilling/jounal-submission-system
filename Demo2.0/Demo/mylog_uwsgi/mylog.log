@@ -1,0 +1,16 @@
+*** Starting uWSGI 2.0.20 (64bit) on [Sun Jun 26 01:16:03 2022] ***
+compiled with version: 9.4.0 on 25 June 2022 15:05:08
+os: Linux-5.4.0-113-generic #127-Ubuntu SMP Wed May 18 14:30:56 UTC 2022
+nodename: iZwz9de0jrbi72xyta46jfZ
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /root/Demo/Demo2.0/Demo/mylog_uwsgi
+writing pidfile to /root/Demo/Demo2.0/Demo/mylog_uwsgi/master.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setgid() to 2000
+setuid() to 1000
+chdir() to /root/Demo/Demo2.0/Demo
+chdir(): Permission denied [core/uwsgi.c line 2625]
